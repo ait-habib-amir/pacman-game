@@ -42,4 +42,4 @@ Le jeu se termine lorsque :
 
 1. Clonez le dépôt sur votre machine.
    ```bash
-   git clone https://github.com/nassimug/Pacman
+   git clone https://github.com/ait-habib-amir/Pacman
